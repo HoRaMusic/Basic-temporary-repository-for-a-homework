@@ -10,7 +10,7 @@ Dans ce cours je présenterai l'environnement à partir:
 
 ![alt text](https://github.com/HoRaMusic/Basic-temporary-repository-for-a-homework/blob/master/nuage-de-mots.png)
 
-- d'un mindmap:
+- d'un mindmap (les sujets en rouge sont les plus importants):
 
 https://mm.tt/1261288318?t=HxowvAiRTQ
 
