@@ -4,11 +4,20 @@
 
 TICE:
 
-Dans ce cours je présenterai l'environnement à partir d'un nuage de mots:
+Dans ce cours je présenterai l'environnement à partir:
 
+- d'un nuage de mots:
 
+![alt text](https://github.com/HoRaMusic/Basic-temporary-repository-for-a-homework/blob/master/nuage-de-mots.png)
 
-d'un mindmap et puis d'une vidéo trouvée sur internet. 
+- d'un mindmap:
+
+https://mm.tt/1261288318?t=HxowvAiRTQ
+
+- d'une vidéo trouvée sur internet:
+
+https://www.youtube.com/watch?v=9f9KYO8Hzzg
+
 Le mind map est lié à du contenu numérique (pages web, vidéos, fritzing,..)
 
 L'ensemble des documents seront partagés sur github, ils pourront donc être consultés, téléchargés mais aussi modifiés 
@@ -25,8 +34,12 @@ Pour suivre les étapes de ce travail :
 
 Référez vous aux document vu en classe ainsi qu'a cette vidéo:
 
+https://www.youtube.com/watch?v=qFD2IZXDXvw&feature=youtu.be
 
 Evaluez-vous avant l'évaluation en classe sur google forms:
 
 https://docs.google.com/forms/d/e/1FAIpQLSds1FcpkRVEOVK7jBj6Kd7GkG9pT6lNoj-oBveo3YJvUhTcJw/viewform?vc=0&c=0&w=1
+
+
+Bon travail.
 
