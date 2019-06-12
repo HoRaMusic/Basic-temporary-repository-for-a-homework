@@ -23,18 +23,18 @@ Le mind map est lié à du contenu numérique (pages web, vidéos, fritzing,..)
 L'ensemble des documents seront partagés sur github, ils pourront donc être consultés, téléchargés mais aussi modifiés 
 par le biai d'une « requête de pull » que le professeur doit confirmer.
 
-Je vous à réaliser un montage simple sur base d'une vidéo réalisée par mes soins.
-Enfin j'tilisera « google froms » pour une évluation rapide.
+Je vous invite à réaliser un montage simple sur base d'une vidéo réalisée par mes soins.
+Enfin, j'utiliserai « google froms » pour une évaluation rapide.
 
 Matériel nécessaire:  une plaquette arduino UNO et un cable usb
 
 ![alt text](https://github.com/HoRaMusic/Basic-temporary-repository-for-a-homework/blob/master/usbUno.jpg)
 
-Réalisation personnel: Suivez simplement les étapes de cette vidéo réalisée par mes soisn pour faire clignoter la LED intégrée de votre arduino UNO.
+Consignes: Suivez simplement les étapes de cette vidéo réalisée par mes soisn pour faire clignoter la LED intégrée de votre arduino UNO.
 
 https://www.youtube.com/watch?v=qFD2IZXDXvw&feature=youtu.be
 
-Si vous voulez faire clignoter une autre LED référez vous à ce lien fritzing:
+Si vous voulez faire clignoter une autre LED référez-vous à ce lien fritzing:
 
 http://fritzing.org/projects/red-led-output
 
