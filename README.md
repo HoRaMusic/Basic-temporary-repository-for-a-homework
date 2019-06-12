@@ -38,6 +38,8 @@ Si vous voulez faire clignoter une autre LED référez vous à ce lien fritzing:
 
 http://fritzing.org/projects/red-led-output
 
+Le code pour faire clignoter la led est aussi disponible et consultable sur cette page (le dossier blink).
+
 Evaluez-vous avant l'évaluation en classe sur google forms:
 
 https://docs.google.com/forms/d/e/1FAIpQLSds1FcpkRVEOVK7jBj6Kd7GkG9pT6lNoj-oBveo3YJvUhTcJw/viewform?vc=0&c=0&w=1
