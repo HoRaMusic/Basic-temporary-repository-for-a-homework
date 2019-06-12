@@ -30,9 +30,7 @@ Matériel nécessaire:  une plaquette arduino UNO et un cable usb
 
 ![alt text](https://github.com/HoRaMusic/Basic-temporary-repository-for-a-homework/blob/master/usbUno.jpg)
 
-Pour suivre les étapes de ce travail : 
-
-Référez vous aux document vu en classe ainsi qu'a cette vidéo:
+Afin de réaliser le travil, suivez simplement les étapes de cette vidéo afin de faire clignoter la LED intégrée de votre arduino UNO: 
 
 https://www.youtube.com/watch?v=qFD2IZXDXvw&feature=youtu.be
 
